@@ -10,7 +10,7 @@ I'm willing to contribute to the open source community and share some good ideas
 ## Find me
 
 - <https://github.com/wzdushu>
-- <https://wnote.com>
+- <https://wanzi.dev>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=wzdushu&show_icons=true&count_private=true)](https://github.com/wzdushu)
 
