@@ -1,30 +1,23 @@
-## Hi there 👋
+   # Hi, I'm Wanzi 👋
 
-I'm a DevOps Engineer.
+   DevOps Engineer focused on system administration,
+   cloud-native technologies, and cloud infrastructure.
 
-I have extensive experience in system administration, cloud native, and cloud infrastructure.
+   I enjoy contributing to open source and sharing what I learn.
 
-I'm willing to contribute to the open source community and share some good ideas on my blog and github.
+   ### 🔧 What I work on
 
+   - Linux & System Administration
+   - Cloud Infrastructure & Kubernetes
+   - CI/CD & Automation
+   - Observability & Reliability
 
-## Find me
+   ### ✍️ Writing
 
-- <https://github.com/wzdushu>
-- <https://wanzi.dev>
+   I write about DevOps, infrastructure, and engineering practices.
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=wzdushu&show_icons=true&count_private=true)](https://github.com/wzdushu)
+   → [wanzi.dev](https://wanzi.dev)
 
-<!--
-**wzdushu/wzdushu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ### 🌐 Find me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   [Blog](https://wanzi.dev) · [GitHub](https://github.com/wzdushu)
